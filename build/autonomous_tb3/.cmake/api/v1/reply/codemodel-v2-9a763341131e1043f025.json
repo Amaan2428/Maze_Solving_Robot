@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-8f60bcadac616ff0493d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "autonomous_tb3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_script_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_script_egg-1d65ead4695730ba0011.json",
+					"name" : "ament_cmake_python_build_script_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_script::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_script-68f89425ec34d68da6a9.json",
+					"name" : "ament_cmake_python_copy_script",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autonomous_tb3_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autonomous_tb3_uninstall-9a3d9bda9b8a72756fad.json",
+					"name" : "autonomous_tb3_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-5b8f354a307c3e5383dd.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/pes2ug22cs314/Desktop/maze_solving /Autonomous-Maze-Solving-Turtlebot3-Simulation/build/autonomous_tb3",
+		"source" : "/home/pes2ug22cs314/Desktop/maze_solving /Autonomous-Maze-Solving-Turtlebot3-Simulation/src/autonomous_tb3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
